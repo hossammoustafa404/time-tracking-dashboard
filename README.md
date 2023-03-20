@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/hossammoustafa404/time-tracking-dashboard.git/](https://your-solution-url.com)
+- Live Site URL: [https://time-tracking-dashboard400.netlify.app/](https://your-live-site-url.com)
 
 ## My process
 
@@ -45,6 +45,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Hossam](https://www.linkedin.com/in/hossam-moustafa-0492a3263/)
+- LinkedIn - [Hossam](https://www.linkedin.com/in/hossam-moustafa-0492a3263/)
 - Frontend Mentor - [@hossammoustafa404](https://www.frontendmentor.io/profile/hossammoustafa404)
 - Github - [@hossammoustafa404](https://github.com/hossammoustafa404)
